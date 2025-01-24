@@ -4,13 +4,14 @@
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
 <h3>Sales Analysis :</h3> <br>
+
 This analysis aims to answer the question of the sales trends of product. The result of this can help us measure the effectiveness of each sales strategy the business applies and what modifications are needed to gain more sales.
 
 <h3>Customer Analysis :</h3> <br>
 This analysis aims to uncover the different customer segments, purchase trends and the profitability of each customer segment.
 
 
-<b>Few Business Questions Which has been Addressed in this project </b>
+<h3> Few Business Questions Which has been Addressed in this project </h3>
 
 1.What is the count of distinct cities in the dataset?<br>
 2.For each branch, what is the corresponding city?<br>
