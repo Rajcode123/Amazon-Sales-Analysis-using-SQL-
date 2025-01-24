@@ -37,9 +37,9 @@ This analysis aims to uncover the different customer segments, purchase trends a
 22.Identify the customer type with the highest purchase frequency.<br>
 23.Determine the predominant gender among customers.<br>
 24.Examine the distribution of genders within each branch.<br>
-25.Identify the time of day when customers provide the most ratings.
-26.Determine the time of day with the highest customer ratings for each branch.
-27.Identify the day of the week with the highest average ratings.
-28.Determine the day of the week with the highest average ratings for each branch.
+25.Identify the time of day when customers provide the most ratings.<br>
+26.Determine the time of day with the highest customer ratings for each branch.<br>
+27.Identify the day of the week with the highest average ratings.<br>
+28.Determine the day of the week with the highest average ratings for each branch.<br>
 
 
