@@ -12,7 +12,7 @@ This analysis aims to uncover the different customer segments, purchase trends a
 
 Few Business Questions Which has been Addressed in this project 
 
-1.What is the count of distinct cities in the dataset?
+1.What is the count of distinct cities in the dataset?<br>
 2.For each branch, what is the corresponding city?
 3.What is the count of distinct product lines in the dataset?
 4.Which payment method occurs most frequently?
